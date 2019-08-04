@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\Simbolos\Simbolos\bin\Debug\Simbolos.exe.config
+C:\Users\USER\source\repos\Simbolos\Simbolos\bin\Debug\Simbolos.exe
+C:\Users\USER\source\repos\Simbolos\Simbolos\bin\Debug\Simbolos.pdb
+C:\Users\USER\source\repos\Simbolos\Simbolos\obj\Debug\Simbolos.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Simbolos\Simbolos\obj\Debug\Simbolos.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Simbolos\Simbolos\obj\Debug\Simbolos.exe
+C:\Users\USER\source\repos\Simbolos\Simbolos\obj\Debug\Simbolos.pdb
