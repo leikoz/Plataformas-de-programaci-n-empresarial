@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\CalendarioMaya\CalendarioMaya\bin\Debug\CalendarioMaya.exe.config
+C:\Users\USER\source\repos\CalendarioMaya\CalendarioMaya\bin\Debug\CalendarioMaya.exe
+C:\Users\USER\source\repos\CalendarioMaya\CalendarioMaya\bin\Debug\CalendarioMaya.pdb
+C:\Users\USER\source\repos\CalendarioMaya\CalendarioMaya\obj\Debug\CalendarioMaya.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\CalendarioMaya\CalendarioMaya\obj\Debug\CalendarioMaya.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\CalendarioMaya\CalendarioMaya\obj\Debug\CalendarioMaya.exe
+C:\Users\USER\source\repos\CalendarioMaya\CalendarioMaya\obj\Debug\CalendarioMaya.pdb
